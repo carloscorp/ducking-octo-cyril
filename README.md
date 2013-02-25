@@ -1,3 +1,3 @@
 ducking-octo-cyril
 ==================
- App fior testing purposes
+ App for testing purposes
